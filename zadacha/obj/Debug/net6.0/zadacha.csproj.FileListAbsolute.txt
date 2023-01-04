@@ -1,0 +1,15 @@
+/Users/olesyaupit/itogovay/zadacha/bin/Debug/net6.0/zadacha
+/Users/olesyaupit/itogovay/zadacha/bin/Debug/net6.0/zadacha.deps.json
+/Users/olesyaupit/itogovay/zadacha/bin/Debug/net6.0/zadacha.runtimeconfig.json
+/Users/olesyaupit/itogovay/zadacha/bin/Debug/net6.0/zadacha.dll
+/Users/olesyaupit/itogovay/zadacha/bin/Debug/net6.0/zadacha.pdb
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.csproj.AssemblyReference.cache
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.AssemblyInfoInputs.cache
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.AssemblyInfo.cs
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.csproj.CoreCompileInputs.cache
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.dll
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/refint/zadacha.dll
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.pdb
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/zadacha.genruntimeconfig.cache
+/Users/olesyaupit/itogovay/zadacha/obj/Debug/net6.0/ref/zadacha.dll
